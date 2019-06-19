@@ -13,7 +13,7 @@ export default (
         buildPath = 'build'
         region='us-east-1'>
 
-        "{§ENVIRONMENT_NAME§}"
+        {§ENVIRONMENT_NAME§}
 
         <Route
             path='/'
