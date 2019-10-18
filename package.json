@@ -8,11 +8,12 @@
   "license": "MIT",
   "dependencies": {
     "infrastructure-components": "{§COMPONENTS_VERSION§}",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
   },
   "devDependencies": {
     "infrastructure-scripts": "{§SCRIPTS_VERSION§}",
+    "serverless-pseudo-parameters": "^2.5.0",
     "serverless-single-page-app-plugin": "^1.0.2"
   }
 }
