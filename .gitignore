@@ -11,6 +11,7 @@
 # Serverless files
 .serverless
 .dynamodb
+.s3
 
 # output-folders
 container/
